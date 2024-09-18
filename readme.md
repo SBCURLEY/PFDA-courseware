@@ -1,3 +1,5 @@
+
+![image info](./images/panda_sleeping.jpg)
 # Programming for Data Analytics
 ### courseware repository
 
